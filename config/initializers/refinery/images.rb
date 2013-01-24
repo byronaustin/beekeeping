@@ -21,7 +21,6 @@ Refinery::Images.configure do |config|
 
   # Configure image view options
   # config.image_views = [:grid, :list]
-
   # Configure default image view
   # config.preferred_image_view = :grid
 

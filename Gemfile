@@ -13,7 +13,7 @@ group :production do
 	gem 'pg'
 	gem 'fog'
 end
-
+gem 'refinerycms-page-images', '~> 2.0.0'
 
 # Gems used only for assets and not required
 # in production environments by default.
