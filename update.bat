@@ -5,3 +5,4 @@ git push heroku
 heroku open
 heroku logs
 heroku run rake db:migrate
+rake assets:precompile  precompile assets -> public/assets
